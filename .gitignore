@@ -1,0 +1,6 @@
+clients/__pycache__
+venv
+.vscode
+pv.egg-info
+__pycache__
+.clients.csv
